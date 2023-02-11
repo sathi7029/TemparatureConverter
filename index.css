@@ -1,0 +1,25 @@
+body{
+    padding: 50px 100px;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    text-align: center;
+    background-color:steelblue;
+    padding: 50px;
+}
+.input-div{
+    display: inline-block;
+}
+label{
+    font-size: 25px;
+
+}
+.inp{
+    padding: 5px 10px;
+    margin:10px;
+    font-size: 30px;
+    text-align: center;
+}
